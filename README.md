@@ -1,1 +1,1 @@
-# boilerplate-vite-react-ts
+# react-query-test
